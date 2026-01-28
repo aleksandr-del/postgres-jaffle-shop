@@ -1,6 +1,6 @@
 # Jaffle Shop DBT - Pre-seeded PostgreSQL
 
-This image provides a PostgreSQL 17 database pre-loaded with the **Jaffle Shop** dataset. It is specifically designed for learning and testing **dbt** (data build tool) without the need for manual data loading.
+This [image](https://hub.docker.com/r/alexdoehl/jaffle-shop-dbt) provides a PostgreSQL 17 database pre-loaded with the **Jaffle Shop** dataset. It is specifically designed for learning and testing **dbt** (data build tool) without the need for manual data loading.
 
 ## 🚀 Features
 
